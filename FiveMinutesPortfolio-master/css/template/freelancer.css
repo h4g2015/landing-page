@@ -286,6 +286,10 @@ section.colabora {
     margin-top: 2em;
 }
 
+#img-head{
+    background-color: rgba(255,255,255, 0.5);
+}
+
 .fotoForo{
     width: 25%;
     padding: 20px;
