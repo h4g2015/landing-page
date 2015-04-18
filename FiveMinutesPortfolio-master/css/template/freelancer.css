@@ -62,17 +62,17 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: gold;
-    background-color: white;
+    color: #ffffff;
+    background-color: transparent;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #ffffff;/*#2c3e50;*/
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+    color: #ffffff;
+    background-color: transparent;
 }
 
 .img-centered {
@@ -289,7 +289,7 @@ section.colabora {
 .fotoForo{
     width: 25%;
     padding: 20px;
-    border-radius: 100%;
+    border-radius: 100% 100% 100% 0;
     background-color: lightskyblue;
 }
 .btn-outline {

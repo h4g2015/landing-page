@@ -59,8 +59,19 @@ h3{
     height: 70%;
 }
 #link{
-    color: blue;
+    color: green;
+    font-style: italic;
 }
 .paypal{
     margin-top: 5%;
+}
+
+.no-decoration {
+    text-decoration: none;
+    columns: green;
+}
+
+.head-photo {
+    height: 256px;
+    white-space: 300px;
 }
